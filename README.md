@@ -28,5 +28,5 @@ LeafBrowser_PreAlpha_v1.0_x86_x64.exe: Version instalable de Leaf Browser
 
 # Autores
 
-Lucio Carrera, lcfcnd1@gmail.com
+Me
 
